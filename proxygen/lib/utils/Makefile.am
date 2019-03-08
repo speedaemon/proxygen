@@ -36,6 +36,7 @@ nobase_libutils_HEADERS = \
 	HTTPTime.h \
 	ParseURL.h \
 	StateMachine.h \
+	StreamDecompressor.h \
 	TestUtils.h \
 	Time.h \
 	TraceEvent.h \
